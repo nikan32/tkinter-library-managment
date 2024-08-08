@@ -1,0 +1,19 @@
+{
+    "id0001":{
+        "name":"Harry potter1",
+        "year":2001,
+        "author":"j.k.rolling"
+    },
+
+    "id0002":{
+        "name":"Harry potter2",
+        "year":2003,
+        "author":"j.k.rolling"
+    },
+
+    "id0003":{
+        "name":"Harry potter3",
+        "year":2004,
+        "author":"j.k.rolling"
+    }
+}
